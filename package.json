@@ -1,0 +1,22 @@
+{
+  "name": "hultor-oasis",
+  "version": "1.0.0",
+  "description": "Social Media App ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iambuoyant/hultor_oasis.git"
+  },
+  "keywords": [
+    "oasis"
+  ],
+  "author": "Inam U Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iambuoyant/hultor_oasis/issues"
+  },
+  "homepage": "https://github.com/iambuoyant/hultor_oasis#readme"
+}
